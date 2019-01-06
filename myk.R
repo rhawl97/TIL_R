@@ -110,6 +110,6 @@ wordtonum = function(word){
   }
   return(list(word,out))
 }
-
+wordtonum1000("two two")
 
 wordtonum("thirty one")
