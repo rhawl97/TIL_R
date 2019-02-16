@@ -2,8 +2,10 @@
 
 ----
 
-Today I Learned
+* Study R-Programming
 
-R-Programming
+* Solve Algorithms
 
-University of Seoul.Statistics
+* Implement Functions
+
+* University of Seoul.Statistics Assignments
