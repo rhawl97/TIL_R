@@ -8,4 +8,6 @@
 
 * Implement Functions
 
+* Machine Learning with R
+
 * University of Seoul.Statistics Assignments
